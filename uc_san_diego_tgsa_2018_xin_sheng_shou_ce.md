@@ -1,1 +1,0 @@
-# UC San Diego TGSA 2018 新生手冊 {#uc-san-diego-tgsa-2018}
