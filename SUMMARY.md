@@ -1,10 +1,6 @@
 # Summary
 
-* [UCSD TGSA Handbook](README.md)
-* [UC San Diego TGSA 2018 新生手冊](uc_san_diego_tgsa_2018_xin_sheng_shou_ce.md)
-* [UCSD TGSA 2018 幹部名單](ucsd_tgsa_2018_gan_bu_ming_dan/README.md)
-  * [致謝](ucsd_tgsa_2018_gan_bu_ming_dan/zhi_xie.md)
-  * [使用說明](ucsd_tgsa_2018_gan_bu_ming_dan/shi_yong_shuo_ming.md)
+* [UC San Diego TGSA 新生手冊](uc_san_diego_tgsa_2018_xin_sheng_shou_ce.md)
 * [出國前的準備](chu_guo_qian_de_zhun_bei/README.md)
   * [入學手續](chu_guo_qian_de_zhun_bei/ru_xue_shou_xu.md)
   * [申請護照與簽證](chu_guo_qian_de_zhun_bei/shen_qing_hu_zhao_yu_qian_zheng.md)
@@ -58,3 +54,6 @@
   * [就醫](zai_mei_sheng_huo/jiu_yi.md)
   * [玩耍](zai_mei_sheng_huo/wan_shua.md)
   * [TGSA活動介紹](zai_mei_sheng_huo/tgsahuo_dong_jie_shao.md)
+* [UCSD TGSA 2018 幹部名單](ucsd_tgsa_2018_gan_bu_ming_dan/README.md)
+  * [致謝](ucsd_tgsa_2018_gan_bu_ming_dan/zhi_xie.md)
+  * [使用說明](ucsd_tgsa_2018_gan_bu_ming_dan/shi_yong_shuo_ming.md)
