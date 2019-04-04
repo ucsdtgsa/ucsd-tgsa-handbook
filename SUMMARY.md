@@ -1,6 +1,5 @@
 # Summary
 
-* [UC San Diego TGSA 新生手冊](uc_san_diego_tgsa_2018_xin_sheng_shou_ce.md)
 * [出國前的準備](chu_guo_qian_de_zhun_bei/README.md)
   * [入學手續](chu_guo_qian_de_zhun_bei/ru_xue_shou_xu.md)
   * [申請護照與簽證](chu_guo_qian_de_zhun_bei/shen_qing_hu_zhao_yu_qian_zheng.md)
