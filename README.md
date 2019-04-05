@@ -2,5 +2,5 @@
 
 
 
-![photo](.gitbook/assets/photo.jpg)
+![photo](img/photo.jpg)
 
