@@ -5,4 +5,4 @@
   publish = "_book"
 
   # Default build command.
-  command = "gitbook build"
+  command = "gitbook install && gitbook build"
