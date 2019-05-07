@@ -13,7 +13,8 @@
         "toolbar",
         "theme-comscore",
         "splitter",
-        "github"
+        "github",
+        "insert-logo"
     ],
     "pluginsConfig": {
         "edit-link": {
@@ -32,6 +33,10 @@
         },
         "github": {
             "url": "https://github.com/ucsdtgsa/ucsd-tgsa-handbook"
+        },
+        "insert-logo": {
+            "url": "/img/logo.png",
+            "style": "background: none;"
         }
     }
 }
