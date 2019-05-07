@@ -1,7 +1,8 @@
-## 購買傢俱與生活必需品
+# 購買傢俱與生活必需品
 
-搭乘繞行 UCSD 的週邊的 201／202 路公車可以到達 La Jolla Village Sqaure（此區有超市、簡易服飾、生活用品、電器、傢俱、腳踏車店、各類餐廳以及電影院）也可以抵達 Westfield UTC Shopping Mall。距離上，由各個宿舍徒步前往上述兩個商店區皆需花費 15 到 40 分鐘不等的時間，因此若要購買個人可攜帶之份量的生活必需品或簡單傢俱是可行的，雖然稱不上方便。鄰近 UCSD 各超市的介紹，詳見 [6.4](#)。在 La Jolla Village Sqaure 也有量販店 Ross（衣物）、Marshall（衣物／生活用品）和 Best Buy（電器），關於 La Jolla Village Square 的這些店家，詳見 [6.7](#)。當然，在這些店家都無法滿足需求時，也可以花點運費直接上 [Amazon](http://www.amazon.com/) 網路購物(新會員或是學生或有免運費的優惠，請參考Amazon網站)。
+搭乘繞行 UCSD 的週邊的 201／202 路公車可以到達 La Jolla Village Sqaure（此區有超市、簡易服飾、生活用品、電器、傢俱、腳踏車店、各類餐廳以及電影院）也可以抵達 Westfield UTC Shopping Mall。距離上，由各個宿舍徒步前往上述兩個商店區皆需花費 15 到 40 分鐘不等的時間，因此若要購買個人可攜帶之份量的生活必需品或簡單傢俱是可行的，雖然稱不上方便。鄰近 UCSD 各超市的介紹，詳見 [6.4](gou_mai_jia_ju_yu_sheng_huo_bi_xu_pin.md)。在 La Jolla Village Sqaure 也有量販店 Ross（衣物）、Marshall（衣物／生活用品）和 Best Buy（電器），關於 La Jolla Village Square 的這些店家，詳見 [6.7](gou_mai_jia_ju_yu_sheng_huo_bi_xu_pin.md)。當然，在這些店家都無法滿足需求時，也可以花點運費直接上 [Amazon](http://www.amazon.com/) 網路購物\(新會員或是學生或有免運費的優惠，請參考Amazon網站\)。
 
-然而，入住初期需要購買大量傢俱或生活必需品，在沒有車的情況下非常不便，請聯絡有車的 TGSA 學長姊協助，到較遠的 Ikea（組合傢俱）、Costco（應有盡有）、Target (傢俱／生活用品)、Lowe’s（五金／生活用品）、Home Depot（五金／傢俱／生活用品）、Office Depot（文具／辦公用品）、Walmart（五金／傢俱／生活用品） 等大型商場選購，並運回宿舍。Ikea 提供組合傢俱運送到府的服務，費用大約 60 美金。
+然而，入住初期需要購買大量傢俱或生活必需品，在沒有車的情況下非常不便，請聯絡有車的 TGSA 學長姊協助，到較遠的 Ikea（組合傢俱）、Costco（應有盡有）、Target \(傢俱／生活用品\)、Lowe’s（五金／生活用品）、Home Depot（五金／傢俱／生活用品）、Office Depot（文具／辦公用品）、Walmart（五金／傢俱／生活用品） 等大型商場選購，並運回宿舍。Ikea 提供組合傢俱運送到府的服務，費用大約 60 美金。
 
 一般而言，入住未含傢俱的宿舍，約需花費 500 至 1000 美元不等的傢俱費用，雜貨以及生活用品部份，則需花費 200 至 500 美元不等， 請準備足夠現金。如果希望節省開銷，可上 Facebook UCSD 子社團 Free or For Sale 、各宿舍區專屬子社團、或是 UCSD TGSA 社團尋找 moving sale 、二手傢俱、日用品販賣資訊。機會往往十分有限，若有需求請密切關注、回應賣方。非校內的二手購物資訊分享網站，以 [Craigslist](http://sandiego.craigslist.org/) 最有名，但因為是外面的平台，請使用時特別注意資訊安全，以及交貨、付款的安全。
+
