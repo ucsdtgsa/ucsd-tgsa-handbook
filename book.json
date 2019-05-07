@@ -1,0 +1,27 @@
+{   "title": "UC San Diego TGSA 新生手冊",
+    "author": "UCSD TGSA",
+    "plugins": [
+        "-lunr",
+        "-search",
+        "search-plus",
+        "anchors",
+        "anchor-navigation-ex",
+        "advanced-emoji",
+        "alerts"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "edit-link": {
+            "base": "https://github.com/ucsdtgsa/ucsd-tgsa-handbook/edit/master",
+            "label": "Edit This Page"
+        },
+        "anchor-navigation-ex": {
+            "isRewritePageTitle": false,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        }
+    }
+}
