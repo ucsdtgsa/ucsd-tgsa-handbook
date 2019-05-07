@@ -12,7 +12,7 @@
     "pluginsConfig": {
         "edit-link": {
             "base": "https://github.com/ucsdtgsa/ucsd-tgsa-handbook/edit/master",
-            "label": "Edit"
+            "label": ""
         }
     }
 }
