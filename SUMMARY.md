@@ -1,5 +1,6 @@
 # Summary
 
+* [UCSD TGSA 新生手冊](README.md)
 * [1 出國前的準備](1_出國前的準備/README.md)
   * [入學手續](1_出國前的準備/ru_xue_shou_xu.md)
   * [申請護照與簽證](1_出國前的準備/shen_qing_hu_zhao_yu_qian_zheng.md)
