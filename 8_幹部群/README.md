@@ -1,4 +1,4 @@
-# UCSD TGSA 2018 幹部名單 {#ucsd-tgsa-2018}
+# TGSA 歷屆幹部
 
 *   email：ucsdtgsa.website@gmail.com
 

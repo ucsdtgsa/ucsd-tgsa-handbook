@@ -11,7 +11,9 @@
         "toggle-chapters",
         "hide-published-with",
         "toolbar",
-        "theme-comscore"
+        "theme-comscore",
+        "splitter",
+        "github"
     ],
     "pluginsConfig": {
         "edit-link": {
@@ -27,6 +29,9 @@
                     "url": "https://raw.github.com/ucsdtgsa/ucsd-tgsa-handbook/master/_export/ucsd-tgsa-handbook.pdf"
                 }
             ]
+        },
+        "github": {
+            "url": "https://github.com/ucsdtgsa/ucsd-tgsa-handbook"
         }
     }
 }
