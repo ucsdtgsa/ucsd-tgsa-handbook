@@ -8,12 +8,25 @@
         "advanced-emoji",
         "alerts",
         "edit-link",
-        "toggle-chapters"
+        "toggle-chapters",
+        "hide-published-with",
+        "toolbar",
+        "theme-comscore"
     ],
     "pluginsConfig": {
         "edit-link": {
             "base": "https://github.com/ucsdtgsa/ucsd-tgsa-handbook/edit/master",
             "label": ""
+        },
+        "toolbar": {
+            "buttons": [
+                {
+                    "label": "",
+                    "icon": "fa fa-file-pdf-o",
+                    "position":"left",
+                    "url": "https://raw.github.com/ucsdtgsa/ucsd-tgsa-handbook/master/_export/ucsd-tgsa-handbook.pdf"
+                }
+            ]
         }
     }
 }
