@@ -1,5 +1,6 @@
 {   "title": "UC San Diego TGSA 2019 新生手冊",
     "author": "UCSD TGSA",
+    "language": "zh-hant",
     "gitbook": "3.2.3",
     "root": ".",
     "plugins": [
@@ -41,20 +42,16 @@
             "style": "background: none;"
         }
     },
-    "fontState": {
-        "size": "2",
-        "family": "serif"
-    },
     "pdf": {
         "pageNumbers": true, 
-        "fontFamily": "Songti TC",
-        "fontSize": 12,
         "paperSize": "a4",
+        "fontFamily": "Songti TC",
+        "fontSize": 16,
         "margin": {
-            "right": 62,
-            "left": 62,
-            "top": 56,
-            "bottom": 56
+            "top": 60,
+            "bottom": 50,
+            "left": 30,
+            "right": 30
         }
     }
 }

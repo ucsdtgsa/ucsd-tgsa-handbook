@@ -10,3 +10,4 @@
 
 # Book build output
 _book/
+.Rproj.user

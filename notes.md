@@ -8,6 +8,12 @@
 brew cask calibre
 ```
 
+### Remove unexportable elements
+
+- comment out iframes for Google map plugins
+- add horizontal lines between chapters to enhance table of contents
+
+
 ### Build ebooks
 
 ```
