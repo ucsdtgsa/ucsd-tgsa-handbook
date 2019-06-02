@@ -22,5 +22,6 @@ TGSA 也時常有與其他團體有所互動、交流，以下列出近期有合
 1. United Taiwanese Association (UTA) | 台灣學友會
   以大學部台灣學生為主的校內團體，時常有打保、KTV 等促進成員交流的活動，每年也會有一場 Final Event 晚會。
 2. Taiwanese American Professionals - San Diego (TAP-SD) | 台美菁英協會
+  成員組成十分多元，主要以在美工作的台灣人、台裔美國人構成。雖然不是學生團體，不過由於 TAP-SD 有主持 Mentorship Program，十分歡迎 UCSD 學生參加的緣故，與 TGSA 往來十分密切。常舉行的活動有登山健行、各種與在美發展有關的座談會，以及每月一次的 TAPpy Hour：基本上就是成員的聚餐，可以把握機會與職場前輩們請教，了解就業現況等。
 
 除此之外也有如 TASA、聖地牙哥台美基金會......等許多各形各色的團體，歡迎同學們有興趣可以多多參與！
