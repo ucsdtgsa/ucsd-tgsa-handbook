@@ -1,5 +1,7 @@
-附錄：Residence for Tuition Purposes （適用美國公民）
+# 附錄：Residence for Tuition Purposes （適用美國公民）
+
 免責聲明：本文僅供幫助同學理解建立「學費認定之加州居民身分（Residence for Tuition Purposes）」 的過程，以及為需要特別注意的事項提供建議；一切資訊應以 UCSD Residence Deputy 提供的為準，其他 UCSD 的處室人員等也都未經授權提供此類資訊。本文為求簡潔，會省略一些但書、條件細節，請務必閱讀校方規定。
+
 Note: 若有疑惑，作者推薦直接拜訪 Residence Deputy 的辦公室（可先寄信至 residencedeputy@ucsd.edu 預約時間），以下資訊很多也是作者造訪該辦公室所得到的資訊。
 
 一、前言
@@ -8,9 +10,9 @@ Note: 若有疑惑，作者推薦直接拜訪 Residence Deputy 的辦公室（�
 接著，第一年新生進來就讀時，學校就會問你一次 residency，除非在加州已經待一段時間，否則往往都是 non-resident 身分，所以第一年結束、第二年開始前，就必須轉換成為居民身分。此居民身分的認定是由學校的註冊組進行，與其他州政府、DMV 之類的都沒有關係，認定程序、標準也一切都是校內制定和執行。
 
 最後，接下來的說明往往會需要參照校方的各種規定，請參照：
-Residence for Tuition Purposes | https://students.ucsd.edu/finances/fees/residence/index.html
-Criteria to Establish Residence for Tuition Purposes | https://students.ucsd.edu/finances/fees/residence/criteria.html
-How to Change Your Nonresident Status to Resident | https://students.ucsd.edu/finances/fees/residence/status-change.html
+Residence for Tuition Purposes | https://students.ucsd.edu/finances/fees/residence/index.html <br/>
+Criteria to Establish Residence for Tuition Purposes | https://students.ucsd.edu/finances/fees/residence/criteria.html <br/>
+How to Change Your Nonresident Status to Resident | https://students.ucsd.edu/finances/fees/residence/status-change.html <br/>
 
 二、建立居民身分的三大條件
 
