@@ -3,11 +3,13 @@
 
 | Position | Name                      | Department                           |  Contact          |
 | :---     | :---                      | :---                                 | :---              |
-| 會長 (外) | 鄭辰彥<br> Norton Cheng   | Biomedical Sciences                  | ncheng@ucsd.edu   |
-| 會長 (內) | 林楷恩<br> Kai-En Lin     | Computer Science and Engineering     | k2lin@ucsd.edu    |
-| 副會長    | 張耕齊<br> Keng-Chi Chang | Political Science                    | kechang@ucsd.edu  |
-| 活動長    | 楊禮安<br> Leon Yang      | Computer Science and Engineering     | l3yang@ucsd.edu   |
-| 活動      | 謝維倫<br> Allen Hsieh    | Mechanical and Aerospace Engineering | wehsieh@eng.ucsd.edu |
-| 活動      | 黃威程<br> Tommy Huang    | Electrical and Computer Engineering  | w2huang@eng.ucsd.edu |
-| 文書      | 崔策<br> Tse Tsui         | Mechanical and Aerospace Engineering | tstsui@ucsd.edu   |
-| 財務      | 楊燿源<br> Arbiter Yang   | Computer Science and Engineering     | yay005@ucsd.edu   |
+| 會長 (外) | 張雅茜<br> Venessa Chang   | Computer Science and Engineering    | yac021@eng.ucsd.edu |
+| 會長 (內) | 曾楷恩<br> Karen Tseng    | Computer Science and Engineering     | k1tseng@ucsd.edu    |
+| 副會長    | Andrew Tsuei<br>  | Master of Business Administration           | andrew.tsuei@rady.ucsd.edu  |
+| 副會長    | 何宣霖<br> Charlene Her   | Bioinformatics and Systems Biology   | hsher@eng.ucsd.edu  |
+| 活動長    | 葉尚畇<br> Daniel Yeh  | Electrical and Computer Engineering (CE)| shyeh@ucsd.edu   |
+| 活動      | Joyce Huang<br>  | Computer Science and Engineering | szh003@eng.ucsd.edu |
+| 活動      | 郭士愷<br> Sky Kuo    | Electrical and Computer Engineering (ECS) | s1kuo@ucsd.edu |
+| 活動      | 蕭荏軒<br> Charlie Hsiao | Mechanical and Aerospace Engineering |  j3hsiao@eng.ucsd.edu |
+| 財務長    | 徐玠<br> Bill Hsu     | Electrical and Computer Engineering  | chh008@ucsd.edu    |
+| 資訊長    | 羅際禎<br> Chi-Chen Lo | Computer Science and Engineering   | c1lo@ucsd.edu  |
