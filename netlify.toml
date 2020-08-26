@@ -5,4 +5,4 @@
   publish = "_book"
 
   # Default build command.
-  command = "npm install gitbook-cli -g && gitbook build"
+  command = "npm install gitbook-cli -g && gitbook install && gitbook build"
