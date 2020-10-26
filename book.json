@@ -38,7 +38,7 @@
             "url": "https://github.com/ucsdtgsa/ucsd-tgsa-handbook"
         },
         "insert-logo": {
-            "url": "img/logo.png",
+            "url": "/ucsd-tgsa-handbook/img/logo.png",
             "style": "background: none;"
         }
     },
