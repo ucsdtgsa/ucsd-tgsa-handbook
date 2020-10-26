@@ -1,0 +1,14 @@
+{
+  "name": "UC San Diego TGSA Handbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UCSD TGSA",
+  "license": "ISC",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0"
+  }
+}
