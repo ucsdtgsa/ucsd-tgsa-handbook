@@ -2,7 +2,7 @@ name: 'Gitbook Action Build'
 on:
   push:
     branches:
-      - switchFromNetlity  # trigger branch
+      - switchFromNetlify  # trigger branch
 jobs:
   build:
     runs-on: ubuntu-latest
