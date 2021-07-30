@@ -1,6 +1,6 @@
 # UC San Diego TGSA 2021 新生手冊
 
-![photo](/img/photo.jpg)
+![photo](/img/photo_2021.jpg)
 
 <br>
 

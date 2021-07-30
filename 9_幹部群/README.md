@@ -3,13 +3,10 @@
 
 | Position | Name                      | Department                           |  Contact          |
 | :---     | :---                      | :---                                 | :---              |
-| 會長 (外) | 張雅茜<br> Venessa Chang   | Computer Science and Engineering    | yac021@eng.ucsd.edu |
-| 會長 (內) | 曾楷恩<br> Karen Tseng    | Computer Science and Engineering     | k1tseng@ucsd.edu    |
-| 副會長    | Andrew Tsuei<br>  | Master of Business Administration           | andrew.tsuei@rady.ucsd.edu  |
-| 副會長    | 何宣霖<br> Charlene Her   | Bioinformatics and Systems Biology   | hsher@eng.ucsd.edu  |
-| 活動長    | 葉尚畇<br> Daniel Yeh  | Electrical and Computer Engineering (CE)| shyeh@ucsd.edu   |
-| 活動      | Joyce Huang<br>  | Computer Science and Engineering | szh003@eng.ucsd.edu |
-| 活動      | 郭士愷<br> Sky Kuo    | Electrical and Computer Engineering (ECS) | s1kuo@ucsd.edu |
-| 活動      | 蕭荏軒<br> Charlie Hsiao | Mechanical and Aerospace Engineering |  j3hsiao@eng.ucsd.edu |
-| 財務長    | 徐玠<br> Bill Hsu     | Electrical and Computer Engineering  | chh008@ucsd.edu    |
-| 資訊長    | 羅際禎<br> Chi-Chen Lo | Computer Science and Engineering   | c1lo@ucsd.edu  |
+| 會長      | Fred Lin <br>   | Mechanical and Aerospace Engineering Ph.D.  | jul024@ucsd.edu |
+| 會長      | Sarah Chang <br>    | Master of Professional Accountancy     | y3chang@ucsd.edu  |
+| 副會長    | Haky Liao<br>  | Master of Materials Science and Engineering    | haliao@ucsd.edu  |
+| 活動      | Sunny Wu<br>  | Master of Professional Accountancy | p9wu@ucsd.edu |
+| 活動      | Jerry Ho<br>     | Electrical and Computer Engineering Ph.D. | chh009@ucsd.edu |
+| 活動      | Jerry Chou<br>  | Bioengineering | cchunju@ucsd.edu | 
+| 財務長    | Richard Lin<br>    | Electrical and Computer Engineering  |  jul041@ucsd.edu   |

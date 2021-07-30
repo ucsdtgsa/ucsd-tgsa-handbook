@@ -28,7 +28,7 @@ TGSA 為服務台灣學生，會在學期中提供大大小小的活動．以下
 
 由前會長兼調酒專家成立，每學期不定期舉辦品酒會活動，每次活動收費依酒、小食、參加人數而定，對品酒有興趣的同學們千萬不要錯過了！
 
-5. 棒球團：[UCSD TNT Baseball Club](https://www.facebook.com/groups/139755376090279/ )
+5. 棒球團：請直接聯絡[Sky Kuo](https://www.facebook.com/sky.kuo.750) or [Jerry Ho](https://www.facebook.com/hochirijay/))
 6. [TGSA Visa Application group](https://www.facebook.com/groups/309311923183242/)
 
 
