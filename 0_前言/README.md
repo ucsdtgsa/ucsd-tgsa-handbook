@@ -6,7 +6,7 @@ UCSD TGSA (Taiwanese Graduate Student Association) 由來自臺灣的研究生�
 
 這份新生手冊累積了數屆幹部的努力，希望帶著初來聖地牙哥的台灣同學們，一步步從排宿舍到考駕照，順利融入在美國的生活。
 
-2021 新版的手冊以 GitBook 發行，方便線上閱讀、搜尋與協作，同時也有 [PDF](https://raw.github.com/ucsdtgsa/ucsd-tgsa-handbook/master/_export/ucsd-tgsa-handbook.pdf)、[EPUB](https://raw.github.com/ucsdtgsa/ucsd-tgsa-handbook/master/_export/ucsd-tgsa-handbook.epub)、[MBOI](https://raw.github.com/ucsdtgsa/ucsd-tgsa-handbook/master/_export/ucsd-tgsa-handbook.mobi) 等電子書版本供離線閱讀。
+2021 新版的手冊以 GitBook 發行，方便線上閱讀、搜尋與協作，同時也有 [PDF](https://raw.github.com/ucsdtgsa/ucsd-tgsa-handbook/master/_export/ucsd-tgsa-handbook.pdf)、[EPUB](https://raw.github.com/ucsdtgsa/ucsd-tgsa-handbook/master/_export/ucsd-tgsa-handbook.epub)、[MOBI](https://raw.github.com/ucsdtgsa/ucsd-tgsa-handbook/master/_export/ucsd-tgsa-handbook.mobi) 等電子書版本供離線閱讀。
 
 有任何建議 (如寫不清楚的內容、希望增加的內容) ，歡迎利用此[表單](https://forms.gle/MgAeWkkNG6sRZypC7)告訴我們你的想法。
 
