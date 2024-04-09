@@ -1,4 +1,4 @@
-# UC San Diego TGSA 2021 新生手冊
+# UC San Diego TGSA 2024 新生手冊
 
 ![photo](/img/photo_2021.jpg)
 
